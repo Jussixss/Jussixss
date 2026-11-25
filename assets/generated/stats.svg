@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="210" viewBox="0 0 1040 210" role="img" aria-labelledby="title desc">
+  <title id="title">Jussixss GitHub statistics</title>
+  <desc id="desc">Public repository and follower counts, stars on owned public repositories, and contributions during GitHub's last-year window. Updated 2026-11-25 UTC.</desc>
+  <style>.label{font:12px monospace;fill:#b3a1c7;letter-spacing:1px}.value{font:bold 42px Arial,sans-serif;fill:#f3eaff}</style>
+  <rect x="1" y="1" width="1038" height="208" rx="14" fill="#0e0b1b" stroke="#48315f"/>
+  <path d="M283 72V166M531 72V166M779 72V166" stroke="#322446"/>
+  <text x="35" y="38" class="label" style="fill:#43f4f4">GITHUB / JUSSIXSS</text>
+  <text x="1005" y="38" text-anchor="end" class="label">PUBLIC SIGNAL</text>
+  <text x="35" y="117" class="value">1</text><text x="35" y="151" class="label">PUBLIC REPOS</text><text x="283" y="117" class="value">0</text><text x="283" y="151" class="label">STARS / OWNED REPOS</text><text x="531" y="117" class="value">1</text><text x="531" y="151" class="label">FOLLOWERS</text><text x="779" y="117" class="value">5</text><text x="779" y="151" class="label">CONTRIBUTIONS / YEAR</text>
+  <text x="35" y="189" class="label">UPDATED 2026-11-25 UTC · DAILY SNAPSHOT</text>
+</svg>
