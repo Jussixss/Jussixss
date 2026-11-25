@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="154" viewBox="0 0 1000 154" role="img" aria-labelledby="title">
+  <title id="title">C#, .NET, Luau, Roblox Studio and Git</title>
+  <rect x="1" y="1" width="998" height="152" rx="12" fill="#0e0b1b" stroke="#322446"/>
+  <path d="M200 25V129M400 25V129M600 25V129M800 25V129" stroke="#322446"/>
+  <g font-family="Arial,sans-serif" font-weight="bold" text-anchor="middle">
+    <path d="m100 24 30 17v34L100 92 70 75V41Z" fill="#9e6cf2"/>
+    <text x="100" y="69" font-size="24" fill="#fff">C#</text>
+    <rect x="270" y="28" width="60" height="60" rx="14" fill="#512bd4"/>
+    <text x="300" y="65" font-size="19" fill="#fff">.NET</text>
+    <path d="m500 27 32 31-32 31-32-31Z" fill="#11baff"/>
+    <path d="M489 42V73H513" fill="none" stroke="#071325" stroke-width="6"/>
+    <path d="m682 23 47 18-18 47-47-18Z" fill="#40d8ed"/>
+    <path d="m692 45 15 6-6 15-15-6Z" fill="#0e0b1b"/>
+    <path d="m900 24 32 32-32 32-32-32Z" fill="#f26d60"/>
+    <path d="m890 42 20 20M890 42v24" fill="none" stroke="#25101e" stroke-width="4"/>
+    <g fill="#25101e"><circle cx="890" cy="42" r="5"/><circle cx="890" cy="66" r="5"/><circle cx="910" cy="62" r="5"/></g>
+    <g font-size="16" fill="#e5daf6"><text x="100" y="123">C#</text><text x="300" y="123">.NET</text><text x="500" y="123">LUAU</text><text x="700" y="123">ROBLOX STUDIO</text><text x="900" y="123">GIT</text></g>
+  </g>
+</svg>

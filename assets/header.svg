@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">JUSSIXSS</title>
+  <desc id="desc">Cyberpunk profile banner. Roblox Developer and Backend Developer.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080a18"/><stop offset=".6" stop-color="#15102a"/><stop offset="1" stop-color="#281241"/></linearGradient>
+    <linearGradient id="neon"><stop stop-color="#43f4f4"/><stop offset=".5" stop-color="#ab79ff"/><stop offset="1" stop-color="#ff4fbd"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ae7fff" stroke-opacity=".1"/></pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 0H4" stroke="#000" stroke-opacity=".15"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="16" fill="url(#grid)"/>
+  <path d="M0 300 600 205 1200 300M0 330 600 205 1200 330M170 360 600 205 1030 360M400 360 600 205 800 360M0 280H1200M0 310H1200M0 350H1200" fill="none" stroke="#8b5bd6" opacity=".17"/>
+  <path d="M0 70H170L190 50H340M860 50H1010L1030 70H1200M0 290H145L166 310H310M890 310H1030L1050 290H1200" fill="none" stroke="url(#neon)" opacity=".6"/>
+  <g fill="#c5b5e8" font-family="monospace" font-size="13" letter-spacing="3">
+    <text x="42" y="35">PLAYER / DEVELOPER</text><text x="1158" y="35" text-anchor="end">PROFILE_001</text>
+  </g>
+  <circle cx="448" cy="91" r="4" fill="#43f4f4"><animate attributeName="opacity" values="1;.35;1" dur="3s" repeatCount="indefinite"/></circle>
+  <text x="600" y="96" text-anchor="middle" fill="#43f4f4" font-family="monospace" font-size="14" letter-spacing="4">BUILD / PLAY / ITERATE</text>
+  <text x="604" y="194" text-anchor="middle" fill="#ff4fbd" opacity=".25" font-family="Arial,sans-serif" font-weight="900" font-size="88" letter-spacing="12">JUSSIXSS<animate attributeName="dx" values="0;0;-5;3;0;0" keyTimes="0;.87;.88;.89;.9;1" dur="8s" repeatCount="indefinite"/></text>
+  <text x="600" y="190" text-anchor="middle" fill="#f5edff" font-family="Arial,sans-serif" font-weight="900" font-size="88" letter-spacing="12">JUSSIXSS</text>
+  <rect x="420" y="214" width="360" height="2" fill="url(#neon)"/>
+  <text x="600" y="252" text-anchor="middle" fill="#d2c6e9" font-family="monospace" font-size="18" letter-spacing="2">ROBLOX DEVELOPER · BACKEND DEVELOPER</text>
+  <text x="600" y="285" text-anchor="middle" fill="#a491bf" font-family="monospace" font-size="14" letter-spacing="3">C# / .NET &amp; LUAU</text>
+  <rect x="25" y="0" width="1150" height="2" fill="url(#neon)" opacity=".15"><animate attributeName="y" values="0;358" dur="7s" repeatCount="indefinite"/></rect>
+  <rect width="1200" height="360" rx="16" fill="url(#scan)"/>
+  <path d="M20 50V20H50M1150 20H1180V50M20 310V340H50M1150 340H1180V310" fill="none" stroke="#ae7fff"/>
+</svg>

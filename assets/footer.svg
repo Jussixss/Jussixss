@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100" role="img" aria-labelledby="title">
+  <title id="title">JUSSIXSS / ENGINEERING VIRTUAL WORLDS</title>
+  <defs><linearGradient id="line"><stop stop-color="#43f4f4"/><stop offset=".5" stop-color="#ab79ff"/><stop offset="1" stop-color="#ff4fbd"/></linearGradient></defs>
+  <path d="M0 20H440L460 40H740L760 20H1200" fill="none" stroke="url(#line)"/>
+  <text x="600" y="76" text-anchor="middle" font-family="monospace" font-size="16" letter-spacing="4" fill="#9f7ed1">JUSSIXSS / ENGINEERING VIRTUAL WORLDS</text>
+</svg>

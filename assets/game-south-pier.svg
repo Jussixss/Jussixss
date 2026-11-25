@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="390" viewBox="0 0 600 390" role="img" aria-labelledby="title desc">
+  <title id="title">Южный пирс — рыбалка / South Pier</title><desc id="desc">Roblox fishing experience, beta. Open on Roblox.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1125"/><stop offset="1" stop-color="#102b3a"/></linearGradient><linearGradient id="neon"><stop stop-color="#ab79ff"/><stop offset="1" stop-color="#43f4f4"/></linearGradient></defs>
+  <rect x="1" y="1" width="598" height="388" rx="16" fill="url(#bg)" stroke="#306a7d"/>
+  <path d="M0 182H600M0 152H600M0 122H600M100 0V210M200 0V210M300 0V210M400 0V210M500 0V210" stroke="#8fceee" opacity=".09"/>
+  <text x="30" y="39" fill="#abcfd9" font-family="monospace" font-size="14" letter-spacing="3">02 / ROBLOX EXPERIENCE</text>
+  <g fill="none" stroke="url(#neon)" stroke-width="5" stroke-linecap="round"><path d="m216 171 110-100Q357 56 374 77M374 77V143q0 27-22 27t-20-23M154 189q30-20 60 0t60 0 60 0 60 0 60 0"/></g>
+  <path d="M410 143q20-28 51 0-31 28-51 0l-17-16v32Z" fill="#43f4f4" opacity=".7"/>
+  <rect x="30" y="217" width="44" height="3" fill="#43f4f4"/>
+  <g font-family="Arial,sans-serif" fill="#f4ecff"><text x="30" y="264" font-size="32" font-weight="bold">ЮЖНЫЙ ПИРС</text><text x="30" y="300" font-size="25">Рыбалка / South Pier · Бета</text></g>
+  <text x="30" y="355" font-family="monospace" font-size="15" fill="#a4e1e7">FISHING / OPEN ON ROBLOX →</text>
+  <path d="M530 352H566V316" fill="none" stroke="#43f4f4" stroke-width="2"/>
+</svg>
