@@ -3,5 +3,5 @@
   <defs><clipPath id="typing"><rect x="52" y="6" width="800" height="50"><animate attributeName="width" values="0;18;36;54;72;90;108;126;144;162;180;198;216;234;252;270;288;306;324;342;360;378;396;414;432;450;468;486;504;522;540;558;576;594;612;630;648;666;684;702;720;738;756;774;792;800;800;800;800;800;0" dur="10s" calcMode="discrete" repeatCount="indefinite"/></rect></clipPath></defs>
   <text x="20" y="40" fill="#ff4fbd" font-size="25" font-family="monospace">&gt;</text>
   <text x="52" y="40" fill="#b68aff" font-size="25" font-family="monospace" textLength="790" lengthAdjust="spacingAndGlyphs" clip-path="url(#typing)">Building Roblox worlds with C# / .NET and Luau.</text>
-  <rect x="858" y="18" width="12" height="26" fill="#43f4f4"><animate attributeName="opacity" values="1;0;1" dur="1s" calcMode="discrete" repeatCount="indefinite"/></rect>
+  <rect x="52" y="18" width="12" height="26" fill="#43f4f4"><animate attributeName="x" values="52;70;88;106;124;142;160;178;196;214;232;250;268;286;304;322;340;358;376;394;412;430;448;466;484;502;520;538;556;574;592;610;628;646;664;682;700;718;736;754;772;790;808;826;844;852;852;852;852;852;52" dur="10s" calcMode="discrete" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="1s" calcMode="discrete" repeatCount="indefinite"/></rect>
 </svg>
